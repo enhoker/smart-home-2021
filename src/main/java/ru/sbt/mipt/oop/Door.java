@@ -13,7 +13,7 @@ public class Door {
         return id;
     }
     
-    public boolean getIsOpen() {
+    public boolean IsOpen() {
         return isOpen;
     }
 
