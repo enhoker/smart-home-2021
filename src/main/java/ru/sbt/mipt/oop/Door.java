@@ -12,6 +12,10 @@ public class Door {
     public String getId() {
         return id;
     }
+    
+    public boolean IsOpen() {
+        return isOpen;
+    }
 
     public void setOpen(boolean open) {
         isOpen = open;
